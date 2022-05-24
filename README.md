@@ -1,1 +1,1 @@
-This is my First React App !
+This is just a practice of ReactJs by ONUR KANCA !
